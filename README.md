@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicolashenrique921
+- 👋 Hi, I’m Nicolas Henrique De Oliveira
 - 👀 I’m interested in learning, helping where I can and evolving personally and professionally...
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate in collaborative environments, where we can evolve together
