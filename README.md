@@ -36,8 +36,15 @@ Sou apaixonado por **aprendizado contínuo**, **colaboração** e **desenvolvime
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-> Sempre melhorando minhas habilidades com prática e projetos reais!  
-> <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" alt="Progress GIF">
+---
+
+## 📊 Estatísticas de GitHub
+
+![Nicolas Henrique GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolashenrique921&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashenrique921&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicolashenrique921&theme=radical)
 
 ---
 
@@ -48,4 +55,4 @@ Sou apaixonado por **aprendizado contínuo**, **colaboração** e **desenvolvime
 
 ---
 
-> Sempre interessado em aprender, ajudar e evoluir. Comprometido com meu trabalho e animado para descobrir novos caminhos e adquirir novos conhecimentos.  
+> Sempre interessado em aprender, ajudar e evoluir. Comprometido com meu trabalho e animado para descobrir novos caminhos e adquirir novos conhecimentos.
