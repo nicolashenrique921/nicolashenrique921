@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou Nicolas Henrique de Oliveira
 
-![Profile Views](https://komarev.com/ghpvc/?username=nicolashenrique921&color=blue)
 
 Sou apaixonado por **aprendizado contínuo**, **colaboração** e **desenvolvimento pessoal e profissional**.  
 
