@@ -53,19 +53,19 @@ Sou apaixonado por **aprendizado contínuo**, **colaboração** e **desenvolvime
 ### 1. Projeto CRUD Completo
 - **Descrição:** Sistema de gerenciamento com frontend em React e backend em Spring Boot.  
 - **Status:** Concluído  
-- **Link:** [Repositório](https://github.com/nicolashenrique921/SeuProjetoCRUD)  
+- **Link:** [[Repositório](https://github.com/nicolashenrique921/SeuProjetoCRUD)
 - ![CRUD GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ### 2. Gerenciamento Confeitaria
 - **Descrição:** Sistema de gerenciamento de pedidos.  
 - **Status:** Concluído  
-- **Link:** [Repositório](https://github.com/nicolashenrique921/SeuAppTreino](https://github.com/nicolashenrique921/ProjetoCRUD-WebApp)](https://github.com/nicolashenrique921/GerenciamentoConfeitaria))  
+- **Link:** [Repositório](https://github.com/nicolashenrique921/GerenciamentoConfeitaria)  
 - ![Fitness App GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ### 3. Gerenciador de Filmes Assistidos
 - **Descrição:** Aplicação desenvolvida para o mobile no Android Studio.  
 - **Status:** Concluído  
-- **Link:** [Repositório]([https://github.com/nicolashenrique921/SeuChatbotAI](https://github.com/nicolashenrique921/GerenciadordeFilmesAssistidos))  
+- **Link:** [Repositório](https://github.com/nicolashenrique921/GerenciadordeFilmesAssistidos)  
 - ![Chatbot GIF](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
 
 > Adicione mais projetos conforme forem concluídos para manter seu portfólio atualizado.  
@@ -75,7 +75,7 @@ Sou apaixonado por **aprendizado contínuo**, **colaboração** e **desenvolvime
 ## 📫 Contato
 - Email: [nicolashenrique921@gmail.com](mailto:nicolashenrique921@gmail.com)  
 - GitHub: [nicolashenrique921](https://github.com/nicolashenrique921)  
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/) *(adicione seu perfil)*  
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/nicolashenrique/) *(adicione seu perfil)*  
 
 ---
 
