@@ -13,7 +13,7 @@ Sou apaixonado por **aprendizado contínuo**, **colaboração** e **desenvolvime
 
 ---
 
-## 🌱 Atualmente estou aprendendo
+## 💻 Atualmente estou aprendendo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -23,7 +23,7 @@ Sou apaixonado por **aprendizado contínuo**, **colaboração** e **desenvolvime
 
 ---
 
-## 💞️ Buscando colaborar em
+## 🧩 Buscando colaborar em
 - Ambientes colaborativos onde possamos **aprender e evoluir juntos**  
 - Projetos desafiadores que expandam meus conhecimentos  
 
@@ -56,16 +56,16 @@ Sou apaixonado por **aprendizado contínuo**, **colaboração** e **desenvolvime
 - **Link:** [Repositório](https://github.com/nicolashenrique921/SeuProjetoCRUD)  
 - ![CRUD GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-### 2. Aplicativo de Treino Físico
-- **Descrição:** App Android para acompanhamento de exercícios com cronômetro e notificações.  
+### 2. Gerenciamento Confeitaria
+- **Descrição:** Sistema de gerenciamento de pedidos.  
 - **Status:** Concluído  
-- **Link:** [Repositório](https://github.com/nicolashenrique921/SeuAppTreino)  
+- **Link:** [Repositório](https://github.com/nicolashenrique921/SeuAppTreino](https://github.com/nicolashenrique921/ProjetoCRUD-WebApp)](https://github.com/nicolashenrique921/GerenciamentoConfeitaria))  
 - ![Fitness App GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
-### 3. Chatbot Inteligente
-- **Descrição:** Chatbot com IA usando Transformer para atendimento ao cliente.  
+### 3. Gerenciador de Filmes Assistidos
+- **Descrição:** Aplicação desenvolvida para o mobile no Android Studio.  
 - **Status:** Concluído  
-- **Link:** [Repositório](https://github.com/nicolashenrique921/SeuChatbotAI)  
+- **Link:** [Repositório]([https://github.com/nicolashenrique921/SeuChatbotAI](https://github.com/nicolashenrique921/GerenciadordeFilmesAssistidos))  
 - ![Chatbot GIF](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
 
 > Adicione mais projetos conforme forem concluídos para manter seu portfólio atualizado.  
