@@ -8,7 +8,7 @@ Sou apaixonado por **aprendizado contínuo**, **colaboração** e **desenvolvime
 
 ## 👀 Interesses
 - Aprender novas tecnologias e linguagens de programação  
-- Ajudar em projetos colaborativos  
+- Contribuir em projetos colaborativos  
 - Evoluir constantemente, pessoal e profissionalmente  
 
 ---
@@ -45,6 +45,30 @@ Sou apaixonado por **aprendizado contínuo**, **colaboração** e **desenvolvime
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashenrique921&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicolashenrique921&theme=radical)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 1. Projeto CRUD Completo
+- **Descrição:** Sistema de gerenciamento com frontend em React e backend em Spring Boot.  
+- **Status:** Concluído  
+- **Link:** [Repositório](https://github.com/nicolashenrique921/SeuProjetoCRUD)  
+- ![CRUD GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+### 2. Aplicativo de Treino Físico
+- **Descrição:** App Android para acompanhamento de exercícios com cronômetro e notificações.  
+- **Status:** Concluído  
+- **Link:** [Repositório](https://github.com/nicolashenrique921/SeuAppTreino)  
+- ![Fitness App GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+
+### 3. Chatbot Inteligente
+- **Descrição:** Chatbot com IA usando Transformer para atendimento ao cliente.  
+- **Status:** Concluído  
+- **Link:** [Repositório](https://github.com/nicolashenrique921/SeuChatbotAI)  
+- ![Chatbot GIF](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
+
+> Adicione mais projetos conforme forem concluídos para manter seu portfólio atualizado.  
 
 ---
 
