@@ -53,7 +53,7 @@ Sou apaixonado por **aprendizado contínuo**, **colaboração** e **desenvolvime
 ### 1. Projeto CRUD Completo
 - **Descrição:** Sistema de gerenciamento com frontend em React e backend em Spring Boot.  
 - **Status:** Concluído  
-- **Link:** [[Repositório](https://github.com/nicolashenrique921/SeuProjetoCRUD)
+- **Link:** [Repositório](https://github.com/nicolashenrique921/ProjetoCRUD-WebApp)
 - ![CRUD GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ### 2. Gerenciamento Confeitaria
